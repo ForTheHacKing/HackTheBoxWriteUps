@@ -4,6 +4,6 @@ A place for my beginner-friendly HackTheBox machine guides to be stored, hopeful
 Currently Released Write-Ups:
 - 'Love'
 
-Finishing Draft, preparing to upload:
+Finishing draft, preparing to upload:
 - 'Knife'
 - 'Driver'
