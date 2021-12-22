@@ -3,7 +3,14 @@ A place for my beginner-friendly HackTheBox machine guides to be stored, hopeful
 
 Currently Released Write-Ups:
 - 'Love'
+- 'Knife'
+
+Currently Released Video Guides:
+- 'Archetype'
+- 'Oopsie'
+- 'Vaccine'
+- 'Shield'
+- 'Pathfinder'
 
 Finishing draft, preparing to upload:
-- 'Knife'
 - 'Driver'
