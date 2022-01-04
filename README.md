@@ -4,6 +4,7 @@ A place for my beginner-friendly HackTheBox machine guides to be stored, hopeful
 Currently Released Write-Ups:
 - 'Love'
 - 'Knife'
+- 'Driver'
 
 Currently Released Video Guides:
 - 'Archetype'
